@@ -11,5 +11,6 @@ touch .env
 touch setup.py
 touch app.py
 touch requirements.txt
+touch README.md
 
 echo "Project structure created successfully."
